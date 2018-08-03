@@ -1,0 +1,16 @@
+#one{
+  color: Blue;
+  font-size: 20px;
+  margin-left: 500px;
+}
+#basicclass{
+  text-align: center;
+  align-items: center;
+  margin-left: 120;
+}
+#users{
+  margin-left: 1100px;
+  font-family: serif;
+  color: orange;
+  font-size: 30px
+}
